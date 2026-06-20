@@ -193,3 +193,34 @@
 #                 right -= 1
 #         return max_area
 #---------------------------------------
+# TODO:(202) HAPPY NUMBER
+# class Solution:
+#     def square_sum(self,n):
+#         square = 0
+#         while n != 0:
+#             digit = n % 10
+#             square += digit**2
+#             n = n // 10
+#         return square
+#     def isHappy(self, n: int) -> bool:
+#         seen = set()
+#         while n != 1:
+#           if n in seen:
+#              return False
+#           else:
+#              seen.add(n)
+#              n = self.square_sum(n)
+#         return True
+#-----------------------------------------------
+# Retension check: detect cycle
+# def has_cycle(num):
+#     slow = 0
+#     fast = 0
+#     while fast < len(num):
+#         slow = num[slow]
+#         fast = num[num[fast]]
+#         if slow == fast:
+#             return True
+#     return False
+# print(has_cycle([1,2,3,4,1]))          
+#-----------------------------------------------
