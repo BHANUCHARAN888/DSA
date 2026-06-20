@@ -32,8 +32,8 @@ I am following a structured progression:
 * [x] Basic Problem Solving
 * [x] 60 Foundation Problems
 ---
-## Phase 2: Two Pointers
-* [ ] Two Pointers
+## Phase 2: Two Pointers  ✅
+* [x] Two Pointers
 ---
 ## Phase 3: Sliding Window
 * [ ] Sliding Window
