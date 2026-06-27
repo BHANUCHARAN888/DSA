@@ -1,6 +1,6 @@
 # 📚 DSA Roadmap
 
-## ✅ Phase 0: Foundation (Completed)
+## ✅ Phase 1: Foundation (Completed)
 
 - [x] Arrays
 - [x] Strings
@@ -10,14 +10,14 @@
 
 ---
 
-## 🔄 Phase 0.5: Foundation Completion
+## 🔄 Phase 1.5: Foundation Completion
 
 ### 1. Time & Space Complexity
-- [ ] Big O Notation
-- [ ] Best / Average / Worst Case
-- [ ] Time Complexity Analysis
-- [ ] Space Complexity Analysis
-- [ ] Practice (15–20 Questions)
+- [x] Big O Notation
+- [x] Best / Average / Worst Case
+- [x] Time Complexity Analysis
+- [x] Space Complexity Analysis
+- [x] Practice (15–20 Questions)
 
 ### 2. Basic Sorting
 - [ ] Bubble Sort
@@ -37,7 +37,7 @@
 
 ---
 
-# 🚀 Phase 1: Pattern-Based DSA
+# 🚀 Phase 2: Pattern-Based DSA
 
 ## 1️⃣ Two Pointer
 
