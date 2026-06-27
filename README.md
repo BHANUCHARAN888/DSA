@@ -1,86 +1,240 @@
-### Python DSA Journey ###
-This repository documents my daily problem-solving journey in Python.
-The goal of this repository is not just to learn syntax, but to build strong problem-solving skills from the ground up.
+# 📚 DSA Roadmap
 
-## Roadmap
-I am following a structured progression:
-1. Build logic from scratch
-2. Solve foundational programming problems
-3. Strengthen problem-solving patterns
-4. Develop confidence with Python and Data Structures
-5. Progress toward standard interview-level questions
-6. Transition into LeetCode and advanced DSA
-7. Continue refining solutions for efficiency and clean code
+## ✅ Phase 0: Foundation (Completed)
 
-## What You'll Find Here
-- Daily problem-solving practice
-- Logic-building exercises
-- Data Structure implementations
-- Pattern-based questions
-- Interview preparation problems
-- LeetCode solutions (added as I progress)
+- [x] Arrays
+- [x] Strings
+- [x] Basic Math
+- [x] Linear Search
+- [x] 60+ Foundation Problems
 
-# DSA Roadmap
-## Phase 1: Foundation Problems ✅
-* [x] Variables & Logic
-* [x] Loops
-* [x] Functions
-* [x] Lists
-* [x] Strings
-* [x] Dictionaries
-* [x] Sets
-* [x] Basic Problem Solving
-* [x] 60 Foundation Problems
----
-## Phase 2: Two Pointers  ✅
-* [x] Two Pointers
----
-## Phase 3: Sliding Window
-* [ ] Sliding Window
----
-## Phase 4: Hashing
-* [ ] Hash Maps
-* [ ] Hash Sets
----
-## Phase 5: Binary Search
-* [ ] Binary Search
----
-## Phase 6: Recursion
-* [ ] Recursion
----
-## Phase 7: Stack
-* [ ] Stack
----
-## Phase 8: Queue
-* [ ] Queue
----
-## Phase 9: Linked List
-* [ ] Linked List
----
-## Phase 10: Trees
-* [ ] Binary Trees
-* [ ] Binary Search Trees
----
-## Phase 11: Heap / Priority Queue
-* [ ] Heap
----
-## Phase 12: Graphs
-* [ ] Graph Traversal
-* [ ] BFS
-* [ ] DFS
----
-## Phase 13: Backtracking
-* [ ] Backtracking
----
-## Phase 14: Dynamic Programming
-* [ ] Dynamic Programming
 ---
 
-# Goal
-* Build strong problem-solving skills.
-* Become interview-ready for Data Science, AI, ML, and Analytics internships.
-* Focus on pattern recognition instead of memorizing solutions.
-* Solve problems consistently and revisit patterns until they become natural.
+## 🔄 Phase 0.5: Foundation Completion
 
-## Progress Tracking
-This repository is updated regularly as part of my DSA preparation journey.
+### 1. Time & Space Complexity
+- [ ] Big O Notation
+- [ ] Best / Average / Worst Case
+- [ ] Time Complexity Analysis
+- [ ] Space Complexity Analysis
+- [ ] Practice (15–20 Questions)
+
+### 2. Basic Sorting
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Stability
+- [ ] In-place vs Out-of-place
+
+### 3. Basic Recursion
+- [ ] Base Case
+- [ ] Recursive Thinking
+- [ ] Factorial
+- [ ] Fibonacci
+- [ ] Sum of N
+- [ ] Reverse String
+- [ ] Practice Problems
+
+---
+
+# 🚀 Phase 1: Pattern-Based DSA
+
+## 1️⃣ Two Pointer
+
+### Theory
+- [ ] Opposite Pointers
+- [ ] Same Direction Pointers
+- [ ] Read / Write Pointer
+- [ ] Fast / Slow Pointer
+
+### Problems
+- [ ] Reverse String
+- [ ] Two Sum II
+- [ ] Move Zeroes
+- [ ] Remove Element
+- [ ] Remove Duplicates
+- [ ] Valid Palindrome
+- [ ] Reverse Vowels
+- [ ] Squares of Sorted Array
+- [ ] Merge Sorted Array
+- [ ] Container With Most Water
+- [ ] Boats to Save People
+
+---
+
+## 2️⃣ Sliding Window
+
+### Theory
+- [ ] Fixed Window
+- [ ] Variable Window
+
+### Problems
+- [ ] Maximum Sum Subarray
+- [ ] Maximum Average Subarray
+- [ ] Minimum Size Subarray Sum
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Minimum Window Substring
+
+---
+
+## 3️⃣ Hashing
+
+### Theory
+- [ ] Dictionary
+- [ ] Hash Map
+- [ ] Hash Set
+- [ ] Frequency Counting
+
+### Problems
+- [ ] Two Sum
+- [ ] Contains Duplicate
+- [ ] Valid Anagram
+- [ ] Group Anagrams
+- [ ] Top K Frequent Elements
+
+---
+
+## 4️⃣ Binary Search
+
+### Theory
+- [ ] Binary Search
+- [ ] Lower Bound
+- [ ] Upper Bound
+- [ ] Search on Answer
+
+### Problems
+- [ ] Binary Search
+- [ ] Search Insert Position
+- [ ] First Bad Version
+- [ ] Koko Eating Bananas
+
+---
+
+## 5️⃣ Stack
+
+### Theory
+- [ ] Stack
+- [ ] Monotonic Stack
+
+### Problems
+- [ ] Valid Parentheses
+- [ ] Min Stack
+- [ ] Next Greater Element
+- [ ] Daily Temperatures
+
+---
+
+## 6️⃣ Queue & Deque
+
+### Theory
+- [ ] Queue
+- [ ] Circular Queue
+- [ ] Deque
+- [ ] Monotonic Queue
+
+### Problems
+- [ ] Implement Queue
+- [ ] Sliding Window Maximum
+
+---
+
+## 7️⃣ Linked List
+
+### Theory
+- [ ] Traversal
+- [ ] Reverse
+- [ ] Fast & Slow Pointer
+- [ ] Merge
+- [ ] Cycle Detection
+
+### Problems
+- [ ] Reverse Linked List
+- [ ] Middle of Linked List
+- [ ] Merge Two Sorted Lists
+- [ ] Linked List Cycle
+
+---
+
+## 8️⃣ Trees
+
+### Theory
+- [ ] DFS
+- [ ] BFS
+- [ ] Preorder
+- [ ] Inorder
+- [ ] Postorder
+
+### Problems
+- [ ] Maximum Depth
+- [ ] Invert Binary Tree
+- [ ] Same Tree
+- [ ] Path Sum
+
+---
+
+## 9️⃣ Binary Search Tree (BST)
+
+### Theory
+- [ ] BST Properties
+
+### Problems
+- [ ] Search in BST
+- [ ] Validate BST
+- [ ] Lowest Common Ancestor
+
+---
+
+## 🔟 Heap (Priority Queue)
+
+### Theory
+- [ ] Min Heap
+- [ ] Max Heap
+- [ ] Priority Queue
+
+### Problems
+- [ ] Kth Largest Element
+- [ ] Top K Frequent Elements
+- [ ] Merge K Sorted Lists
+
+---
+
+## 1️⃣1️⃣ Backtracking
+
+### Theory
+- [ ] Decision Tree
+- [ ] Recursion Tree
+
+### Problems
+- [ ] Subsets
+- [ ] Permutations
+- [ ] Combination Sum
+
+---
+
+## 1️⃣2️⃣ Graphs
+
+### Theory
+- [ ] Graph Representation
+- [ ] BFS
+- [ ] DFS
+
+### Problems
+- [ ] Number of Islands
+- [ ] Flood Fill
+- [ ] Clone Graph
+
+---
+
+## 1️⃣3️⃣ Dynamic Programming
+
+### Theory
+- [ ] 1D DP
+- [ ] 2D DP
+
+### Problems
+- [ ] Climbing Stairs
+- [ ] House Robber
+- [ ] Coin Change
+- [ ] Longest Increasing Subsequence
+
+---------------------------------- `:)` ------------------------------------------
