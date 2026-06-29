@@ -20,8 +20,8 @@
 - [x] Practice (15–20 Questions)
 
 ### 2. Basic Sorting
-- [ ] Bubble Sort
-- [ ] Selection Sort
+- [x] Bubble Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Stability
 - [ ] In-place vs Out-of-place
